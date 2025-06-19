@@ -1,0 +1,1 @@
+go tool oapi-codegen -config ../api/config.yaml ../api/openapi.yaml
